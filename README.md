@@ -9,8 +9,16 @@ Escribir sobre nosotros...
 
 Hacer el cierre de la presentación, invitando a contactar...
 
+
+## Skills
+
+- Coaching
+- Creative
+- Customer service
+
 ## Languages
 - English
 - Spanish
 - Quechua
 - Italiano
+
