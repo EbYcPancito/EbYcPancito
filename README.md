@@ -9,8 +9,24 @@ Escribir sobre nosotros...
 
 Hacer el cierre de la presentación, invitando a contactar...
 
+
 ## Hobbies
 
 - Dancing
 - Playing
 - Photography
+
+
+## Skills
+
+- Coaching
+- Creative
+- Customer service
+
+## Languages
+- English
+- Spanish
+- Quechua
+- Italiano
+
+
